@@ -45,4 +45,4 @@ The analysis includes the following features:
 - **Player Focus:** Coaches and analysts can focus on key players who consistently perform well, utilizing detailed player statistics.
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+<img src="images/dashboard.png" alt="Dashboard Screenshot" width="1000"/>
