@@ -43,3 +43,6 @@ The analysis includes the following features:
 ## Recommendations
 - **Team Strategies:** Teams can use the toss decision patterns to make informed decisions based on venue-specific trends.
 - **Player Focus:** Coaches and analysts can focus on key players who consistently perform well, utilizing detailed player statistics.
+
+## Dashboard
+![Dashboard](images/dashboard.png)
