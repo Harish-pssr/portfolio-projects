@@ -31,3 +31,6 @@ The analysis includes:
 - The majority of casualties occur in urban areas.
 - Daytime accidents are more prevalent compared to nighttime accidents.
 - Accidents predominantly occur on dry road surfaces, with 279,445 casualties recorded in such conditions.
+
+## Dashboard
+<img src="images/Dashboard.png" alt="Dashboard Screenshot" width="1000"/>
