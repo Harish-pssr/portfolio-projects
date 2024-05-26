@@ -32,4 +32,7 @@ The data analysis section focuses analysing based on
 - **Preferred working environment**
 - **Kind of employers to work with**
 - **Learning Environment to work in**
-- **Type of Manage**r
+- **Type of Manager**
+
+#### Note 
+Charts are generated using the Plotly library. GitHub does not display them, so I have added a folder named ```charts``` containing screenshots of all the charts generated.
